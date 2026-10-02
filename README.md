@@ -41,9 +41,9 @@ I'm **Karan Brar**, a Data Science student at NIT Jalandhar. I build practical s
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Karan-Brar-01&bg_color=0d1512&color=b9c8c1&line=baf86b&point=70e5c1&area=true&area_color=5d8f46&hide_border=true&custom_title=Contribution%20Activity" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Karan-Brar-01&bg_color=f6fbf7&color=26372f&line=2f6d3a&point=278f73&area=true&area_color=a7d49a&hide_border=true&custom_title=Contribution%20Activity" />
-  <img width="100%" alt="Karan's contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Karan-Brar-01&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karan-Brar-01&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karan-Brar-01&theme=github" />
+  <img width="100%" alt="Karan's contribution activity graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karan-Brar-01&theme=github_dark" />
 </picture>
 
 ## Technology focus
